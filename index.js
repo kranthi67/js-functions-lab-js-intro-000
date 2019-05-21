@@ -1,3 +1,3 @@
-function happyHolidaysTo(string){
-  return string.happyHolidays();
+function happyHolidaysTo(){
+  return "happyHolidays!";
 }// write your code below!
